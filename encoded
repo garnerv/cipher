@@ -1,0 +1,27 @@
+create list of encoded word
+set password count to 0
+
+Run 1:
+correct output of 'z' using the second equation
+pwC is incremented to 1
+
+Run 2:
+correct output of 'i' using the second equation
+pwc is incremented to 2
+
+Run 3:
+correct output of 'l' using second equation
+pwc is incremented to 3
+
+Run 4
+correct output of 'w' using second equation
+pwc is incremented to 4
+pwc is reset to 0
+
+
+
+encoded text going in: z(122): 25 ilw(119): 22 g(103): 6               a(97):  0    o(111): 14      d(100): 3
+pass phrase:         : s(115): 18 eal(108): 11 s(115): 18              e(101): 4    a(97):  0       s(115): 18
+text we want out:      h(104):  7 ell(108): 11 o(111): 14  (add 99?)   w(119): 22   o               l(108): 11
+
+
